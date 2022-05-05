@@ -1,6 +1,6 @@
 # Kafka Commands
 
-## Prompt 1: Staring Zookeeper
+## Prompt 1: Starting Zookeeper
 ```
 cd c:\kafka
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
