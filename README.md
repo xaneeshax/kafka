@@ -4,13 +4,12 @@
 ```
 cd c:/kafka
 .\bin\windows\kafka-server-start.bat .\config\server.properties
-
 ```
+
 ## Prompt 2
 ```
 cd c:/kafka
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
-
 ```
 
 ## Prompt 3
