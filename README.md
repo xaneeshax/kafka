@@ -56,3 +56,8 @@ Change to localhost
 ```
 cmak.zkhosts="localhost:2181"
 ```
+
+Running the Server
+```
+bin/cmak -Dconfig.file=conf/application.conf -Dhttp.port=8080
+```
